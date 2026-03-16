@@ -1,15 +1,5 @@
-# Python
-__pycache__/
-*.pyc
-
-# Virtual environments
+assist/
 venv/
 env/
-assist/
-
-# Python packages
-Lib/
 site-packages/
-
-# OS
-.DS_Store
+_pycache/
