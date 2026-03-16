@@ -5,7 +5,7 @@ Assistant-AI is a Python-based AI assistant designed to automate tasks, interact
 The goal of this project is to build a customizable personal assistant that can help with tasks such as answering questions, running commands, and assisting with development workflows.
 
 
-# 🚀 Features
+#  Features
 
 *  Natural language interaction
 *  Command execution and automation
