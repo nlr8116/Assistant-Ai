@@ -1,0 +1,58 @@
+2025-07-06 18:05:01
+journal entry 1:
+Today I worked on my assistant ai mainly worked on the sentence parse and integrating it into the assistant and how it delegated tasks.
+
+I also went to church and paster Darius preached about the fruits of the spirit and how you only produce spirits when you follow close to God and how you should always be producing the fruit of love.
+
+Something i want to get done tomorrow is have the parser completely integrated and add two more features that will be very useful when the time comes for me to use it daily.
+
+ideas for things to add:
+make it to where if the parser can break up the query properly to fallback to the LLM to wither delegate tasks to the assistant or generate a new way to complete a one time task to allow for very good flexibility. 
+
+Figure out a way to increase the speed of the generation of LLM response, or download other LLMs to do different tasks based off what is asked and possibly having one quick LLM then delegate tasks to other slower LLMs for the harder tasks that the quick LLM cant handle. 
+
+
+07/07/25 21:52
+Journal entry 2:
+Today I really just relaxed and watched horimiya and a little love is war. Other than that I worked on my Ai further I added a date feature to add to files and i upgraded to move folder move files between ai context and text files and also made it to where you can only edit files that are in the text files folder. 
+
+So i did achieve my goal of fixing two things but neither of them had to do with the LLM that will be what i will slowly work on as the week goes by because I have work for the rest of the week. 
+
+My next thing I want to have done by the end of this week is have the LLM fallback fully operational to be able to partially do what the text parser may struggle on especially when misspelling happen so it bogs down the tasks but i may just work on replacing the misspelled intent and destination words so that those done cause the mixing into the task because that is typically what happens. 
+
+I also watched the chosen today which really shows me and has me asking how did Jesus feel when the time came for him to literally due for me on the cross and how absolutely terrifying it must have bene for him and to still go and do it absolutely amazes me how much he loves me. I just hope that I can show him love back but I fail because I'm still rebelling against him with my sin. I NEED TO GET BACK IN PRAYER.
+
+
+07/08/25 20:55
+Journal entry 3:
+Today I went to work and scrubbed the deck of the boat and then I just kinda relaxed till we closed early and I went to the gym. 
+
+What I got done on the ai was i added a spell checker on the word parser there are still some bugs but as long has you are alright at spelling then you should be fine mainly so that if you accidently mis spell some words it doesn't bog down the tasks. But i also added a quick word called 'end time' where it will set a reminder for when that task's end time is set to which can make thing convenient if you don't want to be reminded about it till its due. 
+
+I also watched a good bit of love is war last night and today and I'm starting to get hooked now that they are actually flirting with each other and not just giving each other the cold shoulder they actually show that the main characters like each other. 
+
+I keep putting of the LLM work because I guess i just really dislike how long it takes maybe i should just see about a really quick one that only just fixes the text to be able to put it back through the respond function. 
+
+Also something I forgot to add to yesterday's journal was  that I now have a 37 inch vertical still 3 inches away from the 40 inch vertical that I want by the end of the summer but I just need to maintain it throughout the school year. This is an earlier journaling so I will pray when i plan on going to sleep but I really need to start holding my self accountable because I can feel God trying to get me to go back to him.
+
+
+
+07/09/25 21:22
+Journal entry 4:
+Today i worked which was very, very slow and then i went and worked out. I am very exhausted, so i am not working on the assistant tonight maybe tomorrow. 
+
+We watched another episode of the chosen and as we are getting closer to Jesus' crucifixion I find some traits that Judas shows to be easily seen in other people but also myself and it kind of disgusts me because Judas believes in God but he wants to be along side God and for God to work with his will but that is not how it works we are supposed to follow God's will alone and not even interject our will with his. If we are to do that we are saying I don't like your plan God so I am going to go with mine which is incredibly stupid saying it out loud but we do this in our heads all the time. I just shows me how much more work I need God to do in me as I get closer with him.
+
+
+07/14/25 21:14
+journal entry 5:
+I haven't journaled in a couple of days I've been really reluctant to journal and work on the ai but it seems like I got the LLM fallback working but I should have minimized the chances of it being called. I also fixed the remind to where if a proper task isn't passed then it will return that it didn't and not be a silent error till the actual reminder is sent.
+
+I am really tired but as long a i slowly get work done and finish this entirely before summer is over I will be happy and proud. 
+
+
+07/15/25 21:12
+Journal entry 6:
+I cleaned 1/4th of the yard at work today and i went and worked out today which felt good. I havn't had anything else productive done today.
+
+I also called Lilah today which was interesting I really can't tell how she feels about me if its just friends or possibly something more which it was at that point in the past but I guess those feelings faded after the boy she met at camp made his moves but I don't know how she really hard to read like she say some interesting things one way and then back out of it the next so I have no clue but so much as a romantic partner I think she can be very emotionally immature for my standards and what I seek in a Woman of God and she is also very high maintenance and will be very dependent on her future husband no matter who he is. I just wish the very best for her wether God has a plan for us together in the future or not. 

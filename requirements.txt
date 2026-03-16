@@ -1,0 +1,13 @@
+requests
+bs4
+sqlalchemy
+pyautogui
+pillow
+opencv-python
+yagmail
+schedule
+keyboard
+ollama
+kivy
+parsedatetime
+pyspellchecker
